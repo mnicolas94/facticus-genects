@@ -1,6 +1,6 @@
 {
   "name": "com.facticus.genects",
-  "version": "0.2.2",
+  "version": "0.1.0",
   "displayName": "Genects",
   "description": "Generic Objects code generator for Unity",
   "unity": "2022.3",
