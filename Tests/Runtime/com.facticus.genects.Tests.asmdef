@@ -1,7 +1,7 @@
 {
-  "name": "com.{{COMPANY}}.{{REPOSITORY_NAME}}.Tests",
+  "name": "com.facticus.genects.Tests",
   "references": [
-    "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}"
+    "Unity.com.facticus.genects"
   ],
   "optionalUnityReferences": [
     "TestAssemblies"
